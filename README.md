@@ -224,24 +224,4 @@ The solution should:
 - Demonstrate Azure Storage integration using Python.
 - Demonstrate GitHub Copilot-assisted development in VS Code.
 
----
 
-## Learning Goals
-
-- Azure Storage Accounts
-- Azure Blob Storage
-- Python Data Processing
-- Time-Series Data Engineering
-- GitHub Repositories
-- VS Code
-- GitHub Copilot
-- JSON Data Processing
-- Feature Engineering
-
----
-
-## Author
-
-Juliet Trigos
-
-Azure Storage and Time-Series Data Engineering Exercise
